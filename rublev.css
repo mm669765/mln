@@ -1,0 +1,17 @@
+BODY {BACKGROUND: url(icons/bg.jpg) #c79a57; COLOR: #492811; FONT: 11pt/17px arial, "times new roman", helvetica, sans-serif; margin:0; padding: 0px;}
+
+A {COLOR: #492811; FONT: 11pt/17px arial, "times new roman", helvetica, sans-serif; TEXT-DECORATION: none}
+A:hover {COLOR: #c64d1e; TEXT-DECORATION: underline}
+
+A.menu {COLOR: #492811; FONT: 14pt/17px arial, "times new roman", arial, helvetica, sans-serif; TEXT-DECORATION: none}
+A.menu:hover {COLOR: #c64d1e; TEXT-DECORATION: underline}
+
+IMG {border:none; border-color: #C78625}
+
+TABLE {COLOR: #492811; FONT: 11pt/17px arial, "times new roman",  helvetica, sans-serif;}
+P {COLOR: #492811; FONT: 11pt/17px arial, "times new roman", arial, helvetica, sans-serif;}
+
+H2 {FONT: 14pt/18px arial, "times new roman", helvetica, sans-serif;}
+H4 {FONT: 14pt/18px arial, "times new roman", helvetica, sans-serif;}
+
+.main {COLOR: #492811; FONT: 14pt/18px arial, "times new roman", helvetica, sans-serif;}
